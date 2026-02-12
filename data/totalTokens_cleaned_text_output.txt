@@ -1,0 +1,60 @@
+Token Count Report
+Folder: /home/crowne/data/crowne/Projects/synthetic_data/data/cleaned_text
+Method: tiktoken (cl100k_base)
+Total Files: 52
+TOTAL TOKENS: 452,526
+============================================================
+Filename                                           |     Tokens
+------------------------------------------------------------
+Algal Poisoning - Special Pet Topics - Merck Ve..  |      1,113
+Alimentación adecuada para mascotas _ Procuradu..  |      5,142
+Allergies in Dogs - Dog Owners - Merck Veterina..  |      2,769
+Behavior Modification in Dogs - Dog Owners - Me..  |      5,707
+Behavior Problems in Dogs - Dog Owners - Merck ..  |      4,353
+COMPENDIO DE LAS ENFERMEDADES DE LOS CANINOS Y ..  |    159,421
+Deafness in Dogs - Dog Owners - Merck Veterinar..  |      1,477
+Description of Dogs - Dog Owners - Merck Veteri..  |      2,891
+Diagnosing Behavior Problems in Dogs - Dog Owne..  |      3,849
+Diagnosis of Poisoning - Special Pet Topics - M..  |        400
+Disorders of the Outer Ear in Dogs - Dog Owners..  |      4,428
+Ear Structure and Function in Dogs - Dog Owners..  |      1,058
+First Aid Kit for a Pet - Special Pet Topics - ..  |        587
+Fleas of Dogs - Dog Owners - Merck Veterinary M..  |      3,667
+Flies and Mosquitoes of Dogs - Dog Owners - Mer..  |      5,717
+General Treatment of Poisoning - Special Pet To..  |        609
+Giving Medicine to a Cat - Cat Owners - Merck V..  |        608
+Hives and Rashes (Urticaria) in Dogs - Dog Owne..  |        736
+Household Hazards - Special Pet Topics - Merck ..  |      4,530
+Introduction to Behavior of Dogs - Dog Owners -..  |        703
+Introduction to Cats - Cat Owners - Merck Veter..  |      1,277
+Introduction to Emergencies - Special Pet Topic..  |        856
+Introduction to Poisoning - Special Pet Topics ..  |        502
+Itching (Pruritus) in Dogs - Dog Owners - Merck..  |      1,470
+Kitten Care - Cat Owners - Merck Veterinary Man..  |      1,044
+LIBRO_ANATOMIA_CLINICA_DEL_PERRO_GATO_cleaned.txt  |    182,034
+Lice of Dogs - Dog Owners - Merck Veterinary Ma..  |      1,543
+Management of Reproduction in Dogs - Dog Owners..  |      3,546
+Management of Reproduction of Cats - Cat Owners..  |      3,254
+Metabolism of Poisons - Special Pet Topics - Me..  |        402
+Normal Social Behavior in Dogs - Dog Owners - M..  |      2,051
+Parasites in Cats - Cat Owners - Merck Veterina..  |        862
+Parasitic Worms of the Skin in Dogs - Dog Owner..  |      1,304
+Photosensitization in Dogs - Dog Owners - Merck..  |      1,113
+Physical Description of Cats - Cat Owners - Mer..  |      1,405
+Proper Nutrition for Cats - Cat Owners - Merck ..  |      2,005
+Providing a Home for a Cat - Cat Owners - Merck..  |        808
+Providing a Home for a Dog - Dog Owners - Merck..  |      1,801
+Providing a Litter Box for a Cat - Cat Owners -..  |        958
+Puppy Care - Dog Owners - Merck Veterinary Manu..  |      1,295
+Pyoderma in Dogs - Dog Owners - Merck Veterinar..  |      1,591
+Routine Health Care of Cats - Cat Owners - Merc..  |      1,230
+Salt Poisoning - Special Pet Topics - Merck Vet..  |        548
+Selecting a Cat - Cat Owners - Merck Veterinary..  |      1,793
+Selecting a Dog - Dog Owners - Merck Veterinary..  |      2,136
+Snakebite - Special Pet Topics - Merck Veterina..  |      2,215
+Spider Bites - Special Pet Topics - Merck Veter..  |      1,189
+Therapy and Service Animals - Special Pet Topic..  |        954
+Ticks of Dogs - Dog Owners - Merck Veterinary M..  |      2,063
+Valoracion-bienestar-perros-gatos_cleaned.txt      |     16,215
+Whole-body Disorders that Affect the Skin in Do..  |      1,201
+cuidados rutinarios- Dog Owners- - Merck Veteri..  |      2,096

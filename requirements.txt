@@ -1,0 +1,6 @@
+google-generativeai
+langchain-google-genai
+langchain-core
+langchain
+pypdf
+tenacity

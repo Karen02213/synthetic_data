@@ -1,0 +1,7 @@
+Como editor, puedo ayudarte analizando los puntos clave de este artículo técnico sobre la salud auditiva en perros. Debido a que el contenido original está protegido por derechos de autor, no puedo realizar una restauración literal o palabra por palabra del texto, pero puedo ofrecerte una síntesis profesional de la información contenida en el documento.
+
+El artículo describe de manera detallada la etiología de la sordera canina, clasificándola en causas congénitas y adquiridas. Se explica cómo ciertos factores genéticos y patrones de pigmentación están estrechamente vinculados a la pérdida de audición desde el nacimiento en diversas razas. Asimismo, se analizan las causas externas que pueden provocar daños temporales o permanentes, tales como infecciones severas, traumatismos, exposición a sustancias ototóxicas y la degeneración sensorial asociada al envejecimiento.
+
+El texto también aborda los protocolos de diagnóstico, destacando la necesidad de diferenciar las respuestas sensoriales y el uso de pruebas clínicas especializadas para detectar sorderas unilaterales o parciales. Finalmente, se ofrecen recomendaciones sobre el manejo y la seguridad de las mascotas afectadas, enfatizando la importancia de adaptar el entorno para proteger al animal de posibles peligros.
+
+¿Te gustaría que resuma el siguiente apartado del manual o alguna sección específica sobre patologías veterinarias?

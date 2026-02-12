@@ -1,0 +1,11 @@
+# Introducción al comportamiento de los perros
+
+Por Gary M. Landsberg, BSc, DVM, MRCVS, DACVB, DECAWEM, Clínica Veterinaria Especializada en Comportamiento del Norte de Toronto
+
+Revisado en febrero de 2018 | Modificado en septiembre de 2024
+
+La medicina del comportamiento es el estudio científico de todo lo que hacen los animales, ya sean insectos, aves, mamíferos, peces o personas. El campo del comportamiento animal se ocupa de comprender las causas, funciones, desarrollo y evolución del comportamiento. El comportamiento se refiere a las acciones o reacciones de un organismo. El comportamiento suele estar relacionado con el entorno y está controlado por los sistemas endocrino y nervioso. La complejidad del comportamiento animal está relacionada con la complejidad de su sistema nervioso. Generalmente, los animales con sistemas nerviosos complejos tienen una mayor capacidad para aprender nuevas respuestas y, por lo tanto, ajustar su comportamiento.
+
+El comportamiento de un animal se ve influenciado por muchos factores. Algunos de estos factores incluyen la predisposición genética, la experiencia y el aprendizaje, el entorno y la fisiología. Varios estudios caninos han demostrado que el comportamiento puede heredarse hasta cierto punto. Además, la influencia materna puede afectar la personalidad y el temperamento. Si los cachorros se separan de una madre temerosa, es menos probable que sientan miedo que si se quedan con ella. El efecto de otros cachorros en la camada, la cantidad y el tipo de manipulación humana, y la exposición a nuevos objetos y experiencias influyen en el comportamiento de un perro. El cerebro y sus neurotransmisores asociados también desempeñan un papel fundamental en el temperamento y el comportamiento. Los niveles anormales de diversas hormonas influyen en ciertas formas de agresión y miedo.
+
+Comprender la naturaleza de los problemas de conducta es esencial para desarrollar una base racional para su tratamiento. Si bien este capítulo se centra principalmente en el comportamiento anormal de los perros, el grado de anormalidad del comportamiento de un perro se define por su desviación de lo "normal" o por la gravedad del problema que este comportamiento representa para su dueño.

@@ -1,0 +1,185 @@
+crowne@2806-106e-0013-3856-0000-0000-0000-0004:~/data/crowne/Projects/synthetic_data$ /bin/python /home/crowne/data/crowne/Projects/synthetic_data/src/ai_text_cleaner.py
+Archivos totales : 49
+Ya procesados    : 0
+Pendientes       : 49
+Entrada          : /home/crowne/data/crowne/Projects/synthetic_data/data/cleaned_text
+Salida           : /home/crowne/data/crowne/Projects/synthetic_data/data/refined_text
+============================================================
+
+[1/49] Algal Poisoning - Special Pet Topics - Merck Veterinary Manual (3994 chars)
+  [OK] Guardado (3569 chars)
+
+[2/49] Alimentación adecuada para mascotas _ Procuraduría Federal del Consumidor _ Gobierno _ gob.mx (18383 chars)
+  [OK] Guardado (13714 chars)
+
+[3/49] Allergies in Dogs - Dog Owners - Merck Veterinary Manual (9975 chars)
+  [OK] Guardado (9233 chars)
+
+[4/49] Behavior Modification in Dogs - Dog Owners - Merck Veterinary Manual (21349 chars)
+  [OK] Guardado (12392 chars)
+
+[5/49] Behavior Problems in Dogs - Dog Owners - Merck Veterinary Manual (15642 chars)
+  [OK] Guardado (12353 chars)
+
+[6/49] Deafness in Dogs - Dog Owners - Merck Veterinary Manual (5095 chars)
+  [OK] Guardado (1402 chars)
+
+[7/49] Description of Dogs - Dog Owners - Merck Veterinary Manual (10008 chars)
+  [OK] Guardado (9181 chars)
+
+[8/49] Diagnosing Behavior Problems in Dogs - Dog Owners - Merck Veterinary Manual (14818 chars)
+  [OK] Guardado (13953 chars)
+
+[9/49] Diagnosis of Poisoning - Special Pet Topics - Merck Veterinary Manual (1447 chars)
+  [OK] Guardado (1126 chars)
+
+[10/49] Disorders of the Outer Ear in Dogs - Dog Owners - Merck Veterinary Manual (15545 chars)
+  [OK] Guardado (11452 chars)
+
+[11/49] Ear Structure and Function in Dogs - Dog Owners - Merck Veterinary Manual (3709 chars)
+  [OK] Guardado (3006 chars)
+
+[12/49] First Aid Kit for a Pet - Special Pet Topics - Merck Veterinary Manual (1938 chars)
+  [OK] Guardado (1694 chars)
+
+[13/49] Fleas of Dogs - Dog Owners - Merck Veterinary Manual (12822 chars)
+  [OK] Guardado (11643 chars)
+
+[14/49] Flies and Mosquitoes of Dogs - Dog Owners - Merck Veterinary Manual (19651 chars)
+  [OK] Guardado (10874 chars)
+
+[15/49] General Treatment of Poisoning - Special Pet Topics - Merck Veterinary Manual (2331 chars)
+  [OK] Guardado (1829 chars)
+
+[16/49] Giving Medicine to a Cat - Cat Owners - Merck Veterinary Manual (2104 chars)
+  [OK] Guardado (1699 chars)
+
+[17/49] Hives and Rashes (Urticaria) in Dogs - Dog Owners - Merck Veterinary Manual (2463 chars)
+  [OK] Guardado (1948 chars)
+
+[18/49] Household Hazards - Special Pet Topics - Merck Veterinary Manual (15900 chars)
+  [OK] Guardado (14799 chars)
+
+[19/49] Introduction to Behavior of Dogs - Dog Owners - Merck Veterinary Manual (2643 chars)
+  [OK] Guardado (2236 chars)
+
+[20/49] Introduction to Cats - Cat Owners - Merck Veterinary Manual (4420 chars)
+  [OK] Guardado (3902 chars)
+
+[21/49] Introduction to Emergencies - Special Pet Topics - Merck Veterinary Manual (3104 chars)
+  [OK] Guardado (2706 chars)
+
+[22/49] Introduction to Poisoning - Special Pet Topics - Merck Veterinary Manual (1756 chars)
+  [OK] Guardado (1320 chars)
+
+[23/49] Itching (Pruritus) in Dogs - Dog Owners - Merck Veterinary Manual (5092 chars)
+  [OK] Guardado (4677 chars)
+
+[24/49] Kitten Care - Cat Owners - Merck Veterinary Manual (3715 chars)
+  [OK] Guardado (3379 chars)
+
+[25/49] Lice of Dogs - Dog Owners - Merck Veterinary Manual (5149 chars)
+  [OK] Guardado (4471 chars)
+
+[26/49] Management of Reproduction in Dogs - Dog Owners - Merck Veterinary Manual (12650 chars)
+  [OK] Guardado (11438 chars)
+
+[27/49] Management of Reproduction of Cats - Cat Owners - Merck Veterinary Manual (11657 chars)
+  [OK] Guardado (10745 chars)
+
+[28/49] Metabolism of Poisons - Special Pet Topics - Merck Veterinary Manual (1424 chars)
+  [OK] Guardado (1115 chars)
+
+[29/49] Normal Social Behavior in Dogs - Dog Owners - Merck Veterinary Manual (7488 chars)
+  [OK] Guardado (6915 chars)
+
+[30/49] Parasites in Cats - Cat Owners - Merck Veterinary Manual (2962 chars)
+  [OK] Guardado (2987 chars)
+
+[31/49] Parasitic Worms of the Skin in Dogs - Dog Owners - Merck Veterinary Manual (4460 chars)
+  [OK] Guardado (3883 chars)
+
+[32/49] Photosensitization in Dogs - Dog Owners - Merck Veterinary Manual (3936 chars)
+  [OK] Guardado (3498 chars)
+
+[33/49] Physical Description of Cats - Cat Owners - Merck Veterinary Manual (4893 chars)
+  [OK] Guardado (4290 chars)
+
+[34/49] Proper Nutrition for Cats - Cat Owners - Merck Veterinary Manual (7283 chars)
+  [OK] Guardado (6504 chars)
+
+[35/49] Providing a Home for a Cat - Cat Owners - Merck Veterinary Manual (2814 chars)
+  [OK] Guardado (2405 chars)
+
+[36/49] Providing a Home for a Dog - Dog Owners - Merck Veterinary Manual (6546 chars)
+  [OK] Guardado (5924 chars)
+
+[37/49] Providing a Litter Box for a Cat - Cat Owners - Merck Veterinary Manual (3428 chars)
+  [OK] Guardado (3048 chars)
+
+[38/49] Puppy Care - Dog Owners - Merck Veterinary Manual (4598 chars)
+  [OK] Guardado (4140 chars)
+
+[39/49] Pyoderma in Dogs - Dog Owners - Merck Veterinary Manual (5478 chars)
+  [OK] Guardado (4884 chars)
+
+[40/49] Routine Health Care of Cats - Cat Owners - Merck Veterinary Manual (4233 chars)
+  [OK] Guardado (3560 chars)
+
+[41/49] Salt Poisoning - Special Pet Topics - Merck Veterinary Manual (1977 chars)
+  [OK] Guardado (1509 chars)
+
+[42/49] Selecting a Cat - Cat Owners - Merck Veterinary Manual (6310 chars)
+  [OK] Guardado (5693 chars)
+
+[43/49] Selecting a Dog - Dog Owners - Merck Veterinary Manual (7385 chars)
+  [OK] Guardado (6801 chars)
+
+[44/49] Snakebite - Special Pet Topics - Merck Veterinary Manual (7793 chars)
+  [OK] Guardado (7138 chars)
+
+[45/49] Spider Bites - Special Pet Topics - Merck Veterinary Manual (4021 chars)
+  [OK] Guardado (3533 chars)
+
+[46/49] Therapy and Service Animals - Special Pet Topics - Merck Veterinary Manual (3560 chars)
+  [OK] Guardado (3169 chars)
+
+[47/49] Ticks of Dogs - Dog Owners - Merck Veterinary Manual (7200 chars)
+  [OK] Guardado (6433 chars)
+
+[48/49] Whole-body Disorders that Affect the Skin in Dogs - Dog Owners - Merck Veterinary Manual (4299 chars)
+  [OK] Guardado (3830 chars)
+
+[49/49] cuidados rutinarios- Dog Owners- - Merck Veterinary Manual (7212 chars)
+  [OK] Guardado (6685 chars)
+
+============================================================
+RESUMEN
+  Exitosos  : 49
+  Fallidos  : 0
+  Saltados  : 0
+============================================================
+
+crowne@2806-106e-0013-3856-0000-0000-0000-0004:~/data/crowne/Projects/synthetic_data$ /bin/python /home/crowne/data/crowne/Projects/synthetic_data/src/ai_text_cleaner.py
+Archivos totales : 52
+Ya procesados    : 49
+Pendientes       : 3
+Entrada          : /home/crowne/data/crowne/Projects/synthetic_data/data/cleaned_text
+Salida           : /home/crowne/data/crowne/Projects/synthetic_data/data/refined_text
+============================================================
+
+[1/3] COMPENDIO DE LAS ENFERMEDADES DE LOS CANINOS Y FELINOS DOMÉSTICOS (552424 chars)
+  [OK] Guardado (85220 chars)
+
+[2/3] LIBRO_ANATOMIA_CLINICA_DEL_PERRO_GATO (567621 chars)
+  [OK] Guardado (266653 chars)
+
+[3/3] Valoracion-bienestar-perros-gatos (54168 chars)
+  [OK] Guardado (31329 chars)
+
+============================================================
+RESUMEN
+  Exitosos  : 3
+  Fallidos  : 0
+  Saltados  : 49
+============================================================

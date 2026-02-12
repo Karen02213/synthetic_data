@@ -1,0 +1,55 @@
+# Moscas y mosquitos de los perros
+
+Por Charles M. Hendrix, DVM, PhD, Departamento de Patobiología, Facultad de Medicina Veterinaria, Universidad de Auburn
+
+Revisado en junio de 2018 | Modificado en septiembre de 2024
+
+Las moscas son insectos alados que suelen ser una simple molestia, pero que pueden transmitir enfermedades y causar problemas en los animales. Pertenecen a un orden grande y complejo de insectos llamados dípteros. Las moscas varían enormemente en tamaño, preferencias alimentarias, desarrollo y hábitos. De adultas, pueden alimentarse de sangre, saliva, lágrimas o moco. También transmiten bacterias, virus y parásitos. El orden dípteros incluye no solo a la mosca doméstica común y a muchos otros insectos que comúnmente llamamos moscas, sino también a los mosquitos.
+
+## Ciclos de vida
+Los ciclos de vida de las miles de moscas diferentes se dividen en cuatro etapas: huevo, larva (en esta etapa, las moscas parecen gusanos y se conocen comúnmente como larvas), pupa (la etapa en la que la mosca se desarrolla dentro de un capullo) y adulto. Los huevos de mosca se depositan en carne en descomposición, excrementos animales o charcos de agua estancada. La característica común de estos lugares de puesta es la presencia de abundante alimento para las larvas. Las moscas se reproducen y crecen rápidamente. Dependiendo de la estación y las condiciones climáticas, una mosca puede tardar solo de 12 a 14 días en pasar de huevo a adulto.
+
+## Moscas picadoras
+Las moscas picadoras se alimentan de sangre animal. Este grupo incluye mosquitos, moscas negras, flebótomos, jejenes, tábanos, tábanos de ciervo y otros. Aunque las picaduras pueden ser dolorosas y provocar reacciones alérgicas, las moscas picadoras no suelen ser peligrosas para los perros, a menos que sean muy numerosas o transmitan alguna enfermedad. Muchas de estas moscas, incluyendo las moscas negras y los mosquitos, pican tanto a animales como a humanos.
+
+## Moscas no picadoras
+Las moscas no picadoras incluyen aquellas que no se alimentan de sangre ni pican al animal huésped mientras se alimentan. En cambio, se alimentan de secreciones corporales. Pueden transmitir enfermedades a perros y otros animales domésticos. Algunos ejemplos son las moscas de la cara, las moscas de la cabeza, las moscas que se reproducen en la suciedad (como la mosca doméstica común) y los mosquitos oculares.
+
+## Mosquitos que pican
+Estos diminutos insectos (de 1 a 3 milímetros [0,04 a 0,16 pulgadas]) a menudo se llaman mosquitos y a veces se les conoce como "jejenes" o "punkies". Existen varias especies. Todas se asocian con hábitats acuáticos o semiacuáticos, como el lodo o la tierra húmeda alrededor de arroyos, estanques y pantanos. Pueden causar picaduras dolorosas y chupar la sangre tanto de humanos como de animales, incluyendo caballos y perros.
+
+## Moscas negras
+Existen más de 1000 especies de moscas negras. Se alimentan de humanos y de muchos tipos de animales. La mayoría de las moscas negras son pequeñas (de 1 a 6 milímetros de largo), lo suficientemente diminutas como para colarse entre las mallas de muchas mosquiteras. Son más numerosas en las zonas templadas y subárticas del norte, aunque también existen especies tropicales y subtropicales. En algunos casos, enjambres de estas moscas atacan, causando numerosas picaduras dolorosas e incluso matando al ganado.
+
+El diagnóstico se realiza por la aparición de heridas por mordeduras en el animal y, en algunos casos, por la presencia de moscas. Las moscas negras son pequeñas y pueden esconderse en el pelaje. Las hembras adultas prefieren alimentarse al aire libre durante el día. Dado que las moscas negras se reproducen en arroyos, se debe mantener a las mascotas alejadas de ellos, especialmente durante el día, para limitar la exposición a las moscas. Los repelentes de insectos de venta libre pueden ayudar a mantener las moscas alejadas de las mascotas.
+
+Los dueños de mascotas suelen tener poco control sobre la presencia de moscas negras. Debido a que es difícil, costoso y puede dañar el medio ambiente, el control de la mosca negra en toda el área suele ser mejor realizado por la ciudad, el condado u otras agencias gubernamentales.
+
+## Infestación de larvas de mosca de la tierra (gusanos, cuterebriasis)
+Esta infestación parasitaria de perros y gatos es causada por moscas de roedores o conejos, que son diferentes especies de *Cuterebra*. La mayoría de las especies de moscas viven solo en una especie de animal. Sin embargo, la mosca *Cuterebra* del conejo es una plaga común en perros y gatos. En raras ocasiones, los perros y gatos también pueden verse infestados por moscas de la guerra (que son tipos de la especie *Hypoderma*) o por la mosca de los humanos (*Dermatobia hominis*).
+
+Las moscas *Cuterebra* adultas son grandes, parecidas a abejas, no se alimentan ni pican. Las hembras depositan huevos en piedras o vegetación. Los perros se infestan al pasar por zonas contaminadas. Las infestaciones son más comunes en verano y otoño, cuando las larvas crecen y producen una hinchazón en la piel de aproximadamente 1 centímetro de diámetro. Se observan forúnculos alrededor de la cabeza, el cuello y el tronco. El pelo suele estar enmarañado y la piel hinchada. Los forúnculos pueden ser dolorosos y supurar. Las larvas también pueden desarrollarse en el cerebro, la nariz, la garganta y los párpados.
+
+El diagnóstico definitivo se realiza cuando el veterinario detecta las larvas. Los forúnculos sospechosos deben ser examinados cuidadosamente por un veterinario. No se debe presionar el forúnculo, ya que esto podría romper la larva y provocar una infección secundaria o, en raras ocasiones, una reacción anafiláctica (alérgica grave). La curación puede ser lenta después de que el veterinario extraiga las larvas.
+
+## Mosquitos del ojo
+Los mosquitos oculares o moscas oculares son muy pequeños, de tan solo 1,5 a 2,5 milímetros (0,06 a 0,1 pulgadas) de largo. Estas diminutas moscas suelen congregarse alrededor de los ojos, aunque algunas especies se sienten atraídas por los órganos genitales. Se alimentan absorbiendo moco, pus y sangre. En las regiones desérticas y montañosas del sur de California, las moscas adultas están presentes durante todo el año; son más numerosas de abril a noviembre. Durante los meses de mayor actividad, se observan temprano por la mañana y al final de la tarde. A menudo se encuentran en zonas de sombra profunda, entre arbustos densamente plantados o a la sombra de un edificio.
+
+El diagnóstico se basa en la aparición de signos en el animal y, en muchos casos, en la presencia del insecto causante. Los mosquitos oculares se parecen mucho a las moscas domésticas en miniatura. Los repelentes de insectos, como los recomendados para mosquitos, pueden aliviar temporalmente la infección. Asegúrese de seguir las recomendaciones de su veterinario al usar repelentes. Los programas comunitarios de control de mosquitos también reducen la cantidad de mosquitos oculares en la zona. Sin embargo, una vez que el insecticida se dispersa, más mosquitos adultos invaden la zona.
+
+## Tábanos, tábanos de ciervo y otras moscas de animales grandes
+Los tábanos (especies de *Tabanus*) y los tábanos de ciervo (especies de *Chrysops*) son grandes (hasta 3,5 centímetros de largo), corpulentos y robustos. Son voladores veloces con alas poderosas y ojos muy grandes. Las hembras pueden alimentarse de la sangre de cualquier animal vertebrado, incluidos los perros, aunque estas moscas suelen preferir caballos, ciervos y ganado. Los machos nunca se alimentan de sangre; en cambio, se alimentan de néctar y polen de plantas. En comparación con otras moscas, consumen mayores cantidades de sangre en una sola alimentación. Al igual que otras moscas, pueden transmitir bacterias o virus. El control de estas moscas es difícil. Algunos insecticidas pueden ser efectivos, pero podrían tener que usarse en diferentes dosis. Su veterinario puede aconsejarle sobre los productos y las dosis más efectivas para su mascota.
+
+## Gusanos (miasis)
+La infestación por larvas también se conoce como miasis o simplemente gusanos. Las moscas domésticas, los tábanos, las moscas azules, las moscas de la botella y las moscas de la carne ponen huevos en las heridas de la piel de cualquier animal (incluido un perro) que tenga una herida infectada. En los cachorros recién nacidos, el cordón umbilical en proceso de cicatrización es un lugar atractivo para la puesta de huevos de las moscas. Las heridas por mordeduras suelen ser el punto de inicio de la infección en perros mayores. El pelaje enmarañado y contaminado con heces también atrae a estas moscas. Los huevos depositados en el pelaje contaminado producen larvas que se desplazan rápidamente a cualquier herida infectada. Una vez dentro de la herida, las larvas invaden rápidamente el tejido circundante.
+
+Los perros afectados suelen presentar llagas rojas y elevadas en la zona afectada o cerca de ella. Pueden verse larvas en la llaga o herida. No intente eliminar las larvas usted mismo; es necesario que su veterinario limpie la herida y las elimine. En la mayoría de los casos, será necesario sedar o anestesiar a su mascota para eliminar las larvas.
+
+Encontrar larvas en una llaga o herida es el método habitual de diagnóstico. Si se necesita o se desea identificar con precisión la mosca, se pueden enviar las larvas a un laboratorio para su identificación. Dado que las primeras larvas en una herida suelen crear condiciones favorables para otras moscas, el sitio de ataque puede contener larvas de más de un tipo de mosca.
+
+Tratar todas las heridas abiertas y controlar la presencia de moscas son dos medidas que puede tomar para proteger a su mascota de las picaduras. Las heridas abiertas deben ser evaluadas por un veterinario. Después del tratamiento inicial, siga las recomendaciones de su veterinario para el cuidado continuo. Igualmente importante es el baño y el aseo rutinarios de su mascota. Mantenga a su perro limpio y no permita que se acumule orina ni heces en su cuerpo.
+
+Finalmente, si es posible, mantenga a su mascota en una zona libre de moscas, protegida con mosquiteras. Para controlar las moscas en la zona, asegúrese de retirar toda la basura y los desechos animales en descomposición. Todos los contenedores de basura deben estar bien tapados. Elimine el agua estancada, especialmente los lugares donde se acumula materia orgánica (incluidos los desechos del jardín). En las perreras y patios, se deben retirar las heces y lavar las zonas de micción a diario, especialmente durante los meses cálidos.
+
+## Pseudomiasis (falsa infección)
+La pseudomiasis ocurre cuando se han consumido larvas de mosca y se encuentran en el tracto digestivo de un perro. Perros, gatos y otros animales consumen las larvas al acicalarse o al comer carne infestada. En la mayoría de los casos, estas larvas pasan al animal sin diger

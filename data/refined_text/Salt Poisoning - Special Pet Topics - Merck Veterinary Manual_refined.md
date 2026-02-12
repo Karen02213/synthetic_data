@@ -1,0 +1,8 @@
+# Envenenamiento por sal
+
+Por Larry Thompson, DVM, PhD, DABVT, Nestlé Purina PetCare
+Revisado en octubre de 2020 | Modificado en septiembre de 2024
+
+La toxicidad por sal (cloruro de sodio) puede ocurrir cuando los animales consumen demasiada sal y no tienen suficiente agua para beber. La toxicidad por sal está directamente relacionada con el consumo de agua y es improbable si se dispone de agua potable fresca. Fallas mecánicas en los bebederos, el hacinamiento, el sabor desagradable del agua medicada, un entorno nuevo o el agua congelada pueden provocar que los animales no beban suficiente agua. Los signos generalmente afectan el tracto gastrointestinal y el sistema nervioso central. Analizar la sangre y el líquido cefalorraquídeo para determinar los niveles de sodio ayuda a confirmar el diagnóstico. Los cambios tisulares característicos en el cerebro y el análisis del contenido de sodio en el alimento o el agua también son útiles para establecer el diagnóstico.
+
+No existe un tratamiento específico. El alimento o el agua causantes deben retirarse de inmediato. Se debe proporcionar agua fresca, inicialmente en pequeñas cantidades y con frecuencia. Beber grandes cantidades de agua puede empeorar los signos neurológicos debido a la acumulación de líquido en el cerebro. Los animales gravemente afectados deben recibir agua por sonda gástrica. La tasa de mortalidad puede superar el 50% independientemente del tratamiento. En perros y gatos, la administración lenta de líquidos puede ser útil.

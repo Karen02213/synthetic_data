@@ -1,0 +1,10 @@
+# Urticaria en perros
+
+Por Stephen D. White, DVM, DACVD, Universidad de California, Davis
+Revisado en junio de 2018 | Modificado en septiembre de 2024
+
+La urticaria o erupciones cutáneas son manchas localizadas de piel roja, inflamada y generalmente con picazón. Suelen aparecer y desaparecer repentinamente. La urticaria es relativamente poco común en perros. Las causas más frecuentes son las picaduras de insectos, el uso de champús y medicamentos. Otras causas incluyen el contacto con plantas o productos químicos tóxicos. La fricción, la luz solar, el calor, el ejercicio, el estrés y las anomalías genéticas pueden causar o intensificar la erupción. La urticaria puede aparecer tras inhalar o consumir alérgenos. La urticaria puede observarse durante el celo o en cachorros con parásitos intestinales.
+
+Las ronchas (erupciones) aparecen a los pocos minutos u horas de la exposición al agente causal. En casos graves, las erupciones cutáneas se acompañan de fiebre, falta de apetito o apatía. Pueden aparecer en cualquier parte del cuerpo, pero se presentan principalmente en la espalda, los flancos, el cuello, los párpados y las piernas. En casos avanzados, pueden encontrarse en las mucosas de la boca, la nariz, el revestimiento de los ojos, el recto y la vagina.
+
+A menudo, la urticaria desaparece tan rápido como aparece, generalmente en pocas horas. Es posible que no requiera tratamiento. Sin embargo, puede reaparecer rápidamente si no se elimina la exposición a la causa. Además, si su perro desarrolla urticaria después de recibir una vacuna o medicación, contacte a su veterinario inmediatamente para ver si necesita tratamiento. El tratamiento puede incluir corticosteroides de acción rápida. Si la urticaria es crónica, se deben considerar los alérgenos ambientales o alimentarios como posibles causas. No es común la muerte, a menos que se presente anafilaxia (un evento alérgico grave) o inflamación de las vías respiratorias.
